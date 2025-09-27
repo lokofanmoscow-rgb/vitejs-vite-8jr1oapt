@@ -1,2 +1,10 @@
-# vitejs-vite-8jr1oapt
-Created with StackBlitz ⚡️
+# MindSound
+
+Генератор музыки под настроение. React +
+
+## Установка и запуск
+
+```bash
+npm install
+npm run dev
+
